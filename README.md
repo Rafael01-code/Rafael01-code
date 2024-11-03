@@ -28,7 +28,7 @@ Sou um desenvolvedor apaixonado por tecnologia, em busca de um estágio onde pos
 
 ## 📫 Vamos nos conectar!
 
-- **LinkedIn:** [seu-linkedin]([link-do-linkedin](https://www.linkedin.com/in/rafael-alves-3b5a59330/))
+- **LinkedIn:** [seu-linkedin]([link-do-linkedin](https://www.linkedin.com/in/rafael-alves-3b5a59330/)
 - **Instagram:** [seu-twitter](https://www.instagram.com/rafinha_.01._/)
 - **E-mail:** rafaelarb2005@gmail.com
 
